@@ -1,0 +1,18 @@
+.caja1{
+	height: 150px;
+	width: 150px;
+	border: 10px solid yellow;
+	font-size: 12px;
+	padding: 20px;
+	text-align: center; 
+}
+
+.caja2{
+	height: 150px;
+	width: 150px;
+	border: 10px solid yellow;
+	font-size: 12px;
+	padding: 20px;
+	text-align: left;
+	margin-left: 300px;
+}
